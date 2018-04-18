@@ -9,3 +9,4 @@ bin
 obj
 .vs
 *.feature.cs
+/CalculatorService/_NCrunch_CalculatorService
